@@ -1,6 +1,7 @@
 # tree-utility
 Tree utility: displays a tree of directories and files
 
+[![Build Status](https://travis-ci.com/Tullerpeton/tree-utility.svg?branch=master)](https://travis-ci.com/Tullerpeton/tree-utility)
 ## Run tests
 Command:
 ```bash
